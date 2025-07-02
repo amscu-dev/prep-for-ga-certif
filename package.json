@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "author": "",
   "type": "module",
+  "main": "dist/index.js",
   "private": true,
   "homepage": "https://github.com/actions/javascript-action#readme",
   "repository": {
