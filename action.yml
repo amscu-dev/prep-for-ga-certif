@@ -1,4 +1,4 @@
-name: 'Open a Github Issue'
+name: 'Open a Github Issue @amscu-dev'
 author: Alexandru Marinescu
 description: 'Opens a Github Issue'
 inputs:
